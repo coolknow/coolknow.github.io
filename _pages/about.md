@@ -15,6 +15,7 @@ redirect_from:
 5. Deep Reinforcement Learning: [full course](https://www.bilibili.com/video/BV12o4y197US)
 6. Mathmatical Foundation of Reinforcement Learning: [full course](https://www.bilibili.com/video/BV1sd4y167NS)
 7. Deep Generative Models: [full course](https://www.bilibili.com/video/BV1yq421A7ig)
+8. Deep Learning Foundations: [full course](https://youtu.be/6Nctj1GCFVo?si=JlGTt_ZVS1qDurb3)
 
 ## Documentation
 1. OpenAI API: [structured-outputs](https://platform.openai.com/docs/guides/structured-outputs)
