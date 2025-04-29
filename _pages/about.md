@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-📌 Ph.D. in Artificial Intelligence @ HKUST(GZ) | Studentship: CS(BJUT) → FinTech(CUHK) → AI(HKUST)  
+📌 Ph.D. in Artificial Intelligence @ HKUST(GZ) 
 🔍 Architecting Cognitive Engines: Domain-Knowledge-Infused LLMs × Multimodal Graph Structural Learning  
 
 ⚡ Technical Signature:  
