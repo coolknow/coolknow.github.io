@@ -7,6 +7,27 @@ redirect_from:
   - /about.html
 ---
 
+## 👋 About Me  
+Hi! I'm Haodong (Jason) Hu 🌐  
+📌 Ph.D. in Artificial Intelligence @ HKUST(GZ) | Studentship: CS(BJUT) → FinTech(CUHK) → AI(HKUST)  
+🔍 Architecting Cognitive Engines: Domain-Knowledge-Infused LLMs × Multimodal Graph Structural Learning  
+
+⚡ Technical Signature:  
+▸ Pioneering research in Graph Machine Learning: Decoding complex business ecosystems through neural topology mapping 🌀  
+▸ Designing LLM Adaptation Frameworks: Specialized fine-tuning pipelines for temporal financial reasoning 📊  
+▸ Cross-disciplinary edge: Algorithmic trading strategies meet explainable graph neural architectures  
+
+🚀 Current Venture:  
+"Compiling Financial Logic into Neural Operators" - Developing AlphaGen Protocol, a hybrid architecture combining LLM-based causal inference with market microstructure modeling 
+
+🌍 Vision Statement:  
+_"Reinventing quantitative finance through neuro-symbolic intelligence"_  
+Advancing neural compilation techniques for domain knowledge graphs | Building convergent intelligence for alternative data streams 🔗  
+
+🎯 Research Manifesto:  
+"Every Alpha Generation Is an Act of Structured Discovery"  
+
+
 ## Lectures
 1. Advanced Digital Signal Processing I: [Probability&Statistics](https://www.bilibili.com/video/BV1ga4y157L5?spm_id_from=333.788.videopod.episodes&vd_source=80283fbc97092e937f74a290368d6852&p=1)
 2. Advanced Digital Signal Processing II: [Sparse Signal Processing](https://www.bilibili.com/video/BV1xusaeWErz?spm_id_from=333.788.videopod.episodes&vd_source=80283fbc97092e937f74a290368d6852&p=11) \| [Bayesian Signal Processing](https://www.bilibili.com/video/BV1xusaeWErz?spm_id_from=333.788.videopod.episodes&vd_source=80283fbc97092e937f74a290368d6852&p=15)
